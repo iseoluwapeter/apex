@@ -17,7 +17,7 @@ const Navbar = () => {
           {/* Logo section */}
           <div className="text-2xl flex items-center gap-2 font-bold">
             <MdComputer className="text-3xl text-secondary" />
-            <p>Apex-Tutor</p>
+            <p>Apex-Tutors</p>
           </div>
 
           {/* Menu section */}

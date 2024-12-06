@@ -21,7 +21,7 @@ const Footer = () => {
             <div className="py-8 px-4 space-y-4">
               <div className="text-2xl flex items-center gap-2 font-bold uppercase">
                 <MdComputer className="text-secondary text-4xl" />
-                <p className="">E-Tutor</p>
+                <p className="">Apex-Tutors</p>
               </div>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque
@@ -133,7 +133,7 @@ const Footer = () => {
             <div className="text-center py-6 border-t-2 border-gray-800/10">
               <span className="text-sm text-black/60">
                 {" "}
-                @copyright 2024 The Coding Journey
+                @copyright 2024 Peter Oyerinde
               </span>
             </div>
           </div>
